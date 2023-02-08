@@ -4,7 +4,7 @@ function solution(n) {
     let x = 0;
     let y = -1;
     let num = 1;
-    
+
     for (let i = 1; i <= n; i++) {
         let tmp = Array(i).fill(0)
         arr.push(tmp)
