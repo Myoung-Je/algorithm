@@ -6,7 +6,6 @@ function solution(w, h) {
     return answer - cut;
 }
 function gcd(a, b) {
-    console.log(a)
     if(b === 0) return a;
     return gcd(b, a%b);
 }
