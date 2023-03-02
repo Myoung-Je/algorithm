@@ -18,6 +18,5 @@ function solution(board, moves) {
             }
         }
     }
-
     return answer;
 }
